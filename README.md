@@ -80,6 +80,6 @@ Dashboard --> ChartRenderer
 
 # License
 
-This project is the proprietary code of Seagate Technology LLC. and is not open-source. Only mark down file is provided here solely for the purpose of showcasing developer skills and project capabilities. Unauthorized use, reproduction, or distribution of this code is prohibited.
+This project is the proprietary code of Seagate Technology LLC. and is not open-source. Only README.md is provided here solely for the purpose of showcasing developer skills and project capabilities. Unauthorized use, reproduction, or distribution of this code is prohibited.
 
 **© 2023 Seagate Technology LLC. All rights reserved.**
