@@ -10,17 +10,11 @@
 ### Request Submission Form
 - The application provides a user-friendly form for inputting request details. It supports file attachments and automatically generates unique request numbers, simplifying the request submission process.
 
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Request+Management+%26+Tracking+System/pic2.jpg" alt="Sample screenshot" width="400">
-
 ### Advanced Search Functionality
 - Effortlessly locate specific request records using a versatile search form. Users can filter results by request number, case status, or request date. The results are presented in a tabular format, complete with detailed attributes for each record, and an accurate count of results found.
 
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Request+Management+%26+Tracking+System/pic3.jpg" alt="Sample screenshot" width="400">
-
 ### Bulk Record Management
 - Users can efficiently manage multiple records at once by selecting and setting their case statuses. The system allows for marking cases as 'on-going' or 'complete,' enhancing the overall workflow efficiency.
-
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Request+Management+%26+Tracking+System/pic4.jpg" alt="Sample screenshot" width="400">
 
 ### Request Details View
 - For comprehensive information on specific requests, the search form seamlessly links to a dedicated page for individual request records, ensuring users have access to all relevant details.
@@ -33,8 +27,6 @@
 
 ### Summary Charts
 - Utilizing the power of Chart.js, the system features a Summary Charts page, offering in-depth visual statistics on the quantity of damaged product parts submitted. Various chart types, including bar charts, pie charts, and line charts, display data on a weekly and monthly basis, ensuring comprehensive insights into the data.
-
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/Request+Management+%26+Tracking+System/pic5.jpg" alt="Sample screenshot" width="400">
 
 This comprehensive and secure system empowers organizations with enhanced request management and tracking capabilities, facilitating efficient data analysis and reporting for better decision-making.
 
